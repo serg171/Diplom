@@ -1,5 +1,5 @@
 # Diplom
-My diploma project is about summarization task on RIA News (РИА Новости) text corpus (ArXiv:1901.07786).
+My diploma project is about summarization task on RIA News (РИА Новости) text corpus (https://arxiv.org/abs/1901.07786).
 
 In "RIA News corpus models" notebook I tried three models: seq2seq architecture with LSTM, transformer and reformer (https://arxiv.org/abs/2001.04451).
 
